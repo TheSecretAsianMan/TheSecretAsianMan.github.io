@@ -11,10 +11,9 @@ body{
 }
 
 
-}
 .nav1{
 grid-column: 1;
-border-left: 5px solid white;
+margin-left: 5px solid white;
 }
 
 .nav2{
