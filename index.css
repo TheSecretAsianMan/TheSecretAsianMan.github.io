@@ -28,7 +28,7 @@ grid-column: 3;
 grid-column: 4;
 }
 
-.main .nav1, .nav2, .nav3, .nav4{
+.nav1, .nav2, .nav3, .nav4{
   background:blue;
   padding: 0px;
   margin: -7px;
