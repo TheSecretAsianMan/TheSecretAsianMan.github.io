@@ -1,6 +1,8 @@
 body{
     color: white;
-    background: grey;
+    background-image: url("iTake-Wondo-Matiral-Art-Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .main{
@@ -101,8 +103,15 @@ a:active {
 
 .title{
   grid-column: 1/5;
-  grid-row: 2;
   font-size: 7em;
+  position: relative;
+  animation:title;
+  animation-duration: 1000ms;
+}
+
+@keyframes title{
+  0%   {transform: scale(0.0);}
+  100% {transform: scale(1.0);}
 }
 
 /*.main .title, .Join, .TDK_kick,
