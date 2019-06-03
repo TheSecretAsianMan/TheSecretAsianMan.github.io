@@ -153,6 +153,7 @@ a:active {
 .FB{
   grid-column: 1;
   grid-row: 9;
+  font-size:.3em;
 }
 
 .Twitter{
