@@ -85,7 +85,22 @@ border-bottom: 10px solid white;
   line-height:100px; 
   transition: color 0.1s ease;
   background-color: blue;
-  text-decoration:none;
+  
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: red;
+}
+
+a:active {
+  text-decoration: none;
+  color: tan;
 }
 
 .title{
