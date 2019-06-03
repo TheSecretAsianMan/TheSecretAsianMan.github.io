@@ -1,6 +1,8 @@
 body{
     color: white;
-    background:tan;
+    background-image:url("Take-Wondo-Matiral-Art-Wallpaper-.png");
+    background-repeat:no repeat;
+    background-size:cover;
 }
 
 .main{
